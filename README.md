@@ -1,5 +1,21 @@
 # myapp
 
+## IMAGENES DEL CODIGO 
+![image](https://github.com/user-attachments/assets/4c1ad599-6286-4e71-a65a-bea042667fe3)
+## 
+![image](https://github.com/user-attachments/assets/3782e711-9cfc-480d-9881-0a0d6708e4a0)
+##
+![image](https://github.com/user-attachments/assets/31cf3ccf-905b-4abb-b788-27316eed42a1)
+##
+![image](https://github.com/user-attachments/assets/49ecfb5b-2923-437c-afa3-653472d52bc5)
+##
+![image](https://github.com/user-attachments/assets/d740b010-751c-422f-974a-ee4fbf7d505f)
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
